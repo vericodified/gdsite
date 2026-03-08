@@ -3,6 +3,8 @@ body {
      background: DarkGreen url("backgr-img.jpg") fixed no-repeat;
      background-size: cover;
      text-align: center;
+     height: 100vh;
+     margin: 0;
 }
 
 /* this will be removed in the next update */
@@ -14,6 +16,7 @@ body {
      border-radius: 3px;
      display: inline-block; 
      width: fit-content;
+     
 } 
 
 .a1 {

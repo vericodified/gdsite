@@ -1,0 +1,20 @@
+body {
+     color: white;
+     background: DarkGreen url("backgr-img.jpg") fixed no-repeat;
+     background-size: cover;
+     text-align: center;
+}
+
+/* this will be removed in the next update */
+.p1 {
+     color: #0917df; 
+     border: 15px solid green;
+     font-size: 15px;
+     padding: 16px 35px 16px 35px;
+     border-radius: 3px;
+     display: inline-block; 
+     margin: 20px auto; 
+     width: fit-content;
+}     
+/* upto this, the "p1" class will be removed in t he next update */
+

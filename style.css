@@ -1,0 +1,44 @@
+body {
+     color: white;
+     background: DarkGreen url("backgr-img.jpg") fixed;
+     text-align: center;
+}
+
+.h1 {
+   font-size: 60px;
+   color: Yellow;
+   font-family: Sans-Serif; 
+}
+
+.p1 {
+    font-family: Sans-Serif;
+    color: white;
+}
+
+.pre1 {
+      font-size:30px;
+      font-family:Sans-Serif; 
+      color: white;
+}
+
+.p2 {
+     color:red;
+     font-family:Sans-Serif;
+}
+
+.a1 {
+    color: yellow;
+    border: 4px solid yellow;
+    text-decoration: none;
+    display: inline-block; 
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+.adr1 {font-size:26px;}
+
+
+
+
+

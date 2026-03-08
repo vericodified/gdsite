@@ -5,6 +5,9 @@ body {
      text-align: center;
      height: 100vh;
      margin: 0;
+     display: flex;
+     justify-content: center;
+     
 }
 
 /* this will be removed in the next update */

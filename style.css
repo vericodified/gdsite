@@ -3,12 +3,14 @@ body {
      background: DarkGreen url("backgr-img.jpg") fixed no-repeat;
      background-size: cover;
      text-align: center;
+     font-family: Sofia, sans-serif;
 }
 
 .h1 {
    font-size: 60px;
    color: Yellow;
    font-family: Sans-Serif; 
+   text-shadow: 2px 2px 10px #00ff00
 }
 
 .p1 {

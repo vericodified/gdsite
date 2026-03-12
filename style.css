@@ -4,6 +4,7 @@ body {
      background-size: cover;
      text-align: center;
      font-family: Sofia, sans-serif;
+     cursor: default;
 }
 
 .h1 {
@@ -72,6 +73,7 @@ body {
     text-decoration: none;
     color: #ffffff;
     font-size: 24.6px;
+    cursor: wait;
 }
 
 .tuffp:hover {

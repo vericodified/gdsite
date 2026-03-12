@@ -5,6 +5,7 @@ body {
      text-align: center;
      margin-top: 0;        
      min-height: 90vh; 
+     cursor: default;
 }
 
 /* The code below must be removed in the next major update */

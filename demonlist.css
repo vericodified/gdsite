@@ -1,0 +1,28 @@
+body {
+     color: white;
+     background: rgb(201, 105, 15) url("demonlistbackground.jpg") fixed no-repeat;
+     background-size: cover;
+     text-align: center;
+     font-family: Sofia, sans-serif;
+     cursor: default;
+}
+
+table, th, td {
+    border: 1px solid #ffffff65;
+    border-style: dashed;
+    border-collapse: collapse; 
+    padding: 50px;             
+    text-align: center;
+    margin: auto;
+}
+
+.a1 {
+    color: white;
+    text-decoration: none;
+}
+
+
+.bckg1 {
+    background-image: url("ts2.jpg");
+    background-size: cover;
+}
